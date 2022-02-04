@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56853ace-8699-4d90-b43e-e1f0057ef995": {
+      "ProjectGuid": "56853ace-8699-4d90-b43e-e1f0057ef995",
+      "DisplayName": "EmployeeManagement",
+      "ColorIndex": 0
+    },
+    "403d3f40-0927-469e-9bda-213afe32c9c0": {
+      "ProjectGuid": "403d3f40-0927-469e-9bda-213afe32c9c0",
+      "DisplayName": "EmployeeManagement.DataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

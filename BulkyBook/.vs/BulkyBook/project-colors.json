@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "81cb6125-eed3-48e7-aaf5-9e41d73e9139": {
+      "ProjectGuid": "81cb6125-eed3-48e7-aaf5-9e41d73e9139",
+      "DisplayName": "BulkyBookWeb",
+      "ColorIndex": 0
+    },
+    "dd291987-887a-4e29-ad9c-b56c3d1eb96b": {
+      "ProjectGuid": "dd291987-887a-4e29-ad9c-b56c3d1eb96b",
+      "DisplayName": "DemoManagement.DataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

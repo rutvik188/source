@@ -1,0 +1,49 @@
+﻿@model IEnumerable<User>;
+@{
+    ViewData["Title"] = "ViewUser";
+}
+
+<h1>ViewUser</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col"> Id</th>
+            <th scope="col"> Name</th>
+            <th scope="col"> Email</th>
+            <th scope="col">IsEmail</th>
+            <th scope="col">Password</th>
+            <th scope="col"> Time</th>
+
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td>
+                    @obj.Id
+                </td>
+                <td>
+                    @obj.Name
+                </td>
+                    <td>
+                    @obj.Email
+                </td>
+                <td>
+                    @obj.IsEmailConfirmed
+                </td>    <td>
+                    @obj.Password
+                </td>
+                <td>
+                    @obj.CreatedDate
+                </td>
+            </tr>
+
+        }
+
+
+    </tbody>
+</table>
+

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a374e64-c580-4b75-845f-6b9369234189": {
+      "ProjectGuid": "5a374e64-c580-4b75-845f-6b9369234189",
+      "DisplayName": "MVCTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
